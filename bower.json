@@ -1,0 +1,20 @@
+{
+  "name": "angular2-to-do",
+  "description": "to do list in angular",
+  "main": "index.html",
+  "authors": [
+    "nathan-barrett <demeules.barrett@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
